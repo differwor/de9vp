@@ -9,7 +9,7 @@
 
 <br>
 
-### 💻 &nbsp;Stack I Work With
+### 💻 &nbsp;I Work With
 
 <br>
 
