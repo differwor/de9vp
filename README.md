@@ -5,7 +5,7 @@
 ### 💻 &nbsp;About Me 
 
 - &nbsp; I like to explore new technologies.
-- &nbsp; I'm on track for learning more about ReactJS, UX/UI to become Front End Developer.
+- &nbsp; I'm on track for learning more about ReactJS, UX/UI.
 
 <br>
 
